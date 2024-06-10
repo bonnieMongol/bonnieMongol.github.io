@@ -1,3 +1,5 @@
+![](https://i.gifer.com/8Etj.gif)
+
 ---
 title: "Assignment 3 v2"
 output: html_document
